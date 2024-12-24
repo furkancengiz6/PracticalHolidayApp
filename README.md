@@ -14,4 +14,4 @@ Bu C# uygulaması, kullanıcıların tatil planlamasına yardımcı olmak için 
 
 1. **GitHub Repository'yi Klonlayın:**
    ```bash
-   git clone [https://github.com/<kullanıcı-adınız>/<repo-adı>.git](https://github.com/furkancengiz6/PracticalHolidayApp.git)
+   git clone (https://github.com/furkancengiz6/PracticalHolidayApp.git)
